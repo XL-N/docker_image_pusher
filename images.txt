@@ -5,7 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 fileview:v4.4.1
-elasticsearch-ik:v7.8
+#elasticsearch-ik:v7.8
 nginx
 
 
